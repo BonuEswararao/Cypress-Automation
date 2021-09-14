@@ -1,0 +1,6 @@
+{
+  "name": "Eswar",
+  "gender": "Male",
+  "productName": ["iphone X","Nokia Edge"],
+  "orderPlacedText":"Success! Thank you! Your order will be delivered in next few weeks :-)."
+}
